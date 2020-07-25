@@ -1,0 +1,2 @@
+Area of Rectangle:30.0
+Area of Rectangle:45.0
